@@ -1,5 +1,21 @@
 # CapstoneDesign2
 
+### Software Environment
+
+* Operating system : Windows 11 22H2 build 22621.819
+* Nvidia Driver version : 516.94.00
+* CUDA: 11.7
+* Python: 3.8.12
+* Torch: 1.10.0
+* Detectron2: 0.4
+* FFMPEG: 4.2.2
+
+Install Towards-Realtime-MOT package (commit 5c88bd53):
+  https://github.com/Zhongdao/Towards-Realtime-MOT
+
+Install py-motmetrics (commit 6597e8a4):
+  https://github.com/cheind/py-motmetrics
+
 # Video Compression for Object Tracking
 
 ## 연구배경
