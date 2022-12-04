@@ -31,7 +31,7 @@ Downloads dataset
 
 ## 관련연구
 
-> * Object Detection
+* Object Detection
 >
 > Object detection은 일반적으로 Classification과 Localization이 같이 수행된 것을 의미한다. 입력된 영상에서 유의미한 특정 객체를 감지하는 것으로서, 시각적으로는 아래 그림과 같이 Bounding box를 이미지 위에 덧 그려서 표시하고, 그 Object의 Classification 결과를 같이 표시하여 나타낸다. 아래와 같이 한 영상에 여러 Object가 있을 수 있다.
 > 
@@ -40,7 +40,8 @@ Downloads dataset
 > Detectron2를 이용한 Object detection 예시
 >
 >
-> * Object Tracking
+
+* Object Tracking
 >
 > Object tracking은 입력된 영상으로부터 Object를 추적하는 것이다. Object가 변형이 일어나도 계속 추적할 수 있어야 한다. 예를 들어 걷고 있는 사람의 형태는 정지된 영상과는 다르게 팔, 다리도 계속 움직이고 경우에 따라서 몸의 측면이 보이다가 정면이 보일수도 있고 걷는 도중 주변의 여러 물체에 의해 신체의 일부가 가려질 수도 있다. 이러한 상황들에 대해서도 지속적인 추적이 이루어 지도록 한 것이 Object tracking이다. 
 > 
